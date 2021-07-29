@@ -1,0 +1,38 @@
+body{
+    background-color:yellowgreen ;  
+    background-image: linear-gradient(to right, purple, olive);
+    
+   
+    
+}
+#cal{
+    background-color: beige;
+    width: 297px;
+    height: 350px;
+    
+    margin: 100px auto;
+}
+.btn{
+       width: 70px;
+       height: 35px;
+       margin-top: 3px;
+
+}
+#clr , #btn1, #btn4, #btn7, #btn_sb {
+    margin-left: 2px;
+}
+
+#buttons{
+    margin-top: 40px;
+}   
+
+#display{
+      width: 295px;
+      height: 101px;
+      background-color: black;
+      color: white;
+      margin: 1px  auto;
+      margin-top: 1px;
+     text-align: right;
+     
+}
