@@ -1,4 +1,4 @@
-const btns = document.querySelectorAll(".btn")
+let btns = document.querySelectorAll(".btn")
 let display = document.querySelector("#display")
 let clr = document.querySelector("#clr")
 let equal = document.querySelector("#equal")
